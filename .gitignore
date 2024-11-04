@@ -1,0 +1,7 @@
+1000genome.dax
+submit
+work
+data/20130502/*.vcf
+data/20130502/sifting/*.vcf
+.DS_Store
+*.pyc
